@@ -1,3 +1,9 @@
+##  **Developed By** `Muhammad Nouman` 
+## Contact Information
+- **Email**: maliknouman6262@gmail.com
+- **Phone Number**: +923086338740
+
+  
 ## 💲 AI Finance Agent Team with Web Access
 This script demonstrates how to build a team of AI agents that work together as a financial analyst using GPT-4o in just 20 lines of Python code. The system combines web search capabilities with financial data analysis tools to provide comprehensive financial insights.
 
@@ -14,7 +20,7 @@ This script demonstrates how to build a team of AI agents that work together as 
 
 1. Clone the GitHub repository
 ```bash
-cd apps/ai_agent_tutorials/ai_finance_agent_team
+cd apps/ai/ai_finance_agent_team
 ```
 
 2. Install the required dependencies:
